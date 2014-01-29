@@ -8,4 +8,5 @@
 	phpinfo();\
 	echo \'91<p>Hello World</p>\'92;\
 	echo \'91<p>What a wonderful day</p>\'92;\
+	echo \'91<p>We are having fun</p>\'92;\
 ?>}
