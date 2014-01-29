@@ -7,4 +7,5 @@
 \f0\fs24 \cf0 <?php \
 	phpinfo();\
 	echo \'91<p>Hello World</p>\'92;\
+	echo \'91<p>What a wonderful day</p>\'92;\
 ?>}
